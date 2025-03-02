@@ -10,6 +10,6 @@ Project ini adalah aplikasi URL Shortener sederhana menggunakan **Golang + Postg
 ---
 
 ### Cara Install
-1. Clone project ini:
+1. Clone project ini :
    ```bash
    git clone https://github.com/FahmiHeykal/simple-url-shortener.git
